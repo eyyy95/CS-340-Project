@@ -1,0 +1,35 @@
+h2 {
+   padding-top: 25px; 
+}
+
+nav {
+    float: right;
+}
+
+a {
+    color: lightblue;
+    padding-right: 10px;
+}
+
+body {
+    background-color: rgb(46, 56, 56);
+    color: white;
+}
+
+dt {
+    padding-top: 10px;
+}
+
+input { display: inline; }
+
+td {
+    color: white;
+}
+
+th {
+    color: white;
+}
+
+button {
+    float: left;
+}
